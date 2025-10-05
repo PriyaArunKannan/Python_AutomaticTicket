@@ -1,4 +1,3 @@
-````markdown
 # Automatic Ticket Classification (Many-to-One RNN) + Gemini Auto-Reply
 
 ## Overview
