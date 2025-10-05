@@ -31,8 +31,8 @@ To set up the project, you need to create a virtual environment, install depende
    Create and activate a Python virtual environment for your project:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate
-````
+   source venv/bin/activate  # On Windows, use venv\Scripts\activate   
+   ````
 
 2. **Install the Dependencies**:
    Install all required libraries using `pip`:
